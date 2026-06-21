@@ -12,8 +12,6 @@ Lunaria is a world of floating islands. There is no ground — or rather, there 
 
 You live, work, trade, and travel between islands. Skyships are the primary transport. The world is a hundred years old in its current form and is still figuring out what it is.
 
----
-
 ## Where to Start
 
 | | |
@@ -26,8 +24,6 @@ You live, work, trade, and travel between islands. Skyships are the primary tran
 | [Calendar & Time](calendar-time) | How Lunaria marks time |
 | [Starting Hooks](starting-hooks) | Ways into the campaign |
 
----
-
 ## What Everyone Knows
 
 **The Calamity happened a hundred years ago.** The ground-world ended. The sky-islands rose. Nobody alive was there. Everybody knows someone whose grandparents were.
@@ -39,8 +35,6 @@ You live, work, trade, and travel between islands. Skyships are the primary tran
 **The djinn wind-lanes are becoming unreliable.** Trade routes that have run for eighty years are showing inconsistencies. Experienced skyship captains have started carrying emergency sails they haven't needed in decades.
 
 **The Ascendant Church says the Calamity was a divine elevation.** The worthy were raised into the sky. The unworthy were not.
-
----
 
 ## What Nobody Knows (But You Might Find Out)
 

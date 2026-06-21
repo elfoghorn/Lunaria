@@ -7,8 +7,6 @@ tags: [player-guide, index]
 
 Everything in this folder is safe to share with your players.
 
----
-
 ## Start Here
 
 [Welcome to Lunaria](welcome-to-lunaria) covers what the world is, what everyone knows, and what you might find out.
@@ -28,8 +26,6 @@ Everything in this folder is safe to share with your players.
 
 [Starting Hooks](starting-hooks) offers ways into the campaign, one per kingdom plus cross-kingdom options.
 [Character Creation Guide](character-creation-guide) offers advice on building a backstory that fits the world.
-
----
 
 ## How This Guide Works
 

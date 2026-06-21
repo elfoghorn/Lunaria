@@ -10,8 +10,6 @@ Building a character for Lunaria isn't just about picking a class and race — i
 
 This guide walks you through building a backstory that feels real, connects to the world, and gives your DM threads to pull on.
 
----
-
 ## The Four Questions
 
 Every good backstory answers four things. You don't need paragraphs — a sentence each is enough to start.
@@ -50,8 +48,6 @@ Obligations are the engine of character arcs. Debts, loyalties, promises, family
 
 > *"My younger brother is still in the Ember Quarter. He believes in what they're building. I'm not sure I do anymore."*
 
----
-
 ## Structuring Your Backstory
 
 **Keep it short.** A paragraph or two is better than a page. The DM needs hooks, not a novel. Leave space for the story to fill in.
@@ -67,8 +63,6 @@ You're carrying [obligation or secret] that you haven't resolved.
 
 **Don't write your backstory as a complete story.** Write it as setup. The interesting part hasn't happened yet — that's the campaign.
 
----
-
 ## What Makes a Backstory Land in Lunaria
 
 ### Connect to something real in the world
@@ -77,7 +71,7 @@ The Calamity was one hundred years ago. Everyone has grandparents' stories about
 A character with no opinion on the Calamity is like a character with no opinion on the city they grew up in. Give yourself a position, even a quiet one.
 
 ### Use the social texture of your kingdom
-Each kingdom has a cultural logic. Lean into it:
+Each kingdom has a cultural logic. Lean into it.
 
 - **Aethoni** grew up with the Church in their daily life. They have a relationship with its theology — devout, quietly rebellious, rote and hollow, or genuinely wrestling with it.
 - **Verathi** were raised on debate. They have opinions and they argue for them with evidence.
@@ -92,13 +86,9 @@ The most effective backstory element is one that doesn't have a resolution yet. 
 
 Unresolved things give your DM material. Resolved things are history.
 
----
-
 ## Example Backstories
 
 These are sketches, not finished backstories — they show the shape of one, not every detail.
-
----
 
 ### The Ashwalker Seeker
 *A human with Ashwalker heritage, raised near the Deepward Fringe, working as a Seekers' Concord Runner.*
@@ -107,16 +97,12 @@ These are sketches, not finished backstories — they show the shape of one, not
 
 **What makes this work:** specific want, specific debt, a belief that the world will test, and a character shaped by where she's from rather than just *what she can do*.
 
----
-
 ### The Verathi Scholar Out of Her Depth
 *A high elf archivist who has spent two centuries in the Grand Archive and is now somewhere she can't cross-reference.*
 
 > Aelindra has worked in the Grand Archive for two hundred and three years. She has never been wrong about a primary source document. Eight weeks ago she found a document that contradicts something fundamental about the official history of Year 0 — not a detail, a load-bearing fact — and the request to bring it before the Archive Council was deferred without explanation. She has since been given a sabbatical she didn't request and a research appointment in a city three days from Verath-Ul. She wants to understand why the document was suppressed rather than challenged. She trusts institutional process in the way that only someone who has watched it work for two centuries can, which means she is going to have to be shown — not told — that it has failed.
 
 **What makes this work:** the backstory sets up a specific present-day problem. She's not here because of something that happened to her parents. She's here because of something that happened last month.
-
----
 
 ### The Republic Citizen Carrying the Wall
 *A tiefling who grew up in Freehold with a name on the Wall of Names.*
@@ -125,8 +111,6 @@ These are sketches, not finished backstories — they show the shape of one, not
 
 **What makes this work:** moral complexity without a clean answer. The backstory is a question the character can't resolve by themselves — which makes it a story.
 
----
-
 ### The Kairan Merchant Watching the Wind-Lanes
 *A human trader whose entire operation depends on infrastructure that's quietly failing.*
 
@@ -134,16 +118,12 @@ These are sketches, not finished backstories — they show the shape of one, not
 
 **What makes this work:** a real-world problem with stakes. The character doesn't need a tragic past to have something to lose.
 
----
-
 ## A Note on Tragedy
 
 Not every backstory needs a dead parent, a burned village, or a lost love.
 
 Trauma is real and it's a legitimate character engine. But it's not the only one. Characters can be driven by ambition, curiosity, loyalty, debt, principle, grief for living people, or just a really specific question they need answered.
 
-If you do include tragedy, make sure it's doing work. Ask: *how does this shape what my character wants right now?* If the answer is vague ("it made me stronger"), consider what specific *specific* thing it made your character want, fear, or believe.
-
----
+If you do include tragedy, make sure it's doing work. Ask: *how does this shape what my character wants right now?* If the answer is vague ("it made me stronger"), consider what specific thing it made your character want, fear, or believe.
 
 *See also: [Starting Hooks](starting-hooks) · [Races of Lunaria](races-of-lunaria-player-guide) · [The Seven Kingdoms](the-seven-kingdoms-player-overview)*
