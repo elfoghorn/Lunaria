@@ -3,7 +3,7 @@ title: The Seven Kingdoms
 nav_order: 3
 tags: [player-guide, kingdoms, overview]
 ---
-# The Seven Kingdoms - Player Overview
+# The Seven Kingdoms
 
 Seven sovereign governments control the major island clusters of Lunaria. Each has a distinct political character, cultural identity, and relationship to the sky-world's central crises.
 

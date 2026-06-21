@@ -3,7 +3,7 @@ title: The Below
 nav_order: 7
 tags: [player-guide, below, threat]
 ---
-# The Below - What Is Known
+# The Below
 
 This is the publicly available knowledge about the Below. What lies at its depths, what it means for the future of Lunaria, and who knows what about its current state - that is a different question.
 

@@ -3,7 +3,7 @@ title: Factions
 nav_order: 6
 tags: [player-guide, factions]
 ---
-# Factions - What Players Know
+# Factions
 
 These are the organisations operating openly in Lunaria. Every player character would know of them; most would have encountered at least one.
 

@@ -3,7 +3,7 @@ title: Lunaria Geography
 nav_order: 4
 tags: [player-guide, geography]
 ---
-# Lunaria Geography - Player Overview
+# Lunaria Geography
 
 Lunaria's geography is defined by altitude, sky-ocean crossings, and the fact that the entire inhabitable world is suspended in the air above the Below.
 

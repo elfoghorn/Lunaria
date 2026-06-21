@@ -3,7 +3,7 @@ title: Races of Lunaria
 nav_order: 5
 tags: [player-guide, races]
 ---
-# Races of Lunaria - Player Guide
+# Races of Lunaria
 
 Lunaria has all the standard races plus three that are unique to the sky-world's conditions. Here's what players would commonly know about each.
 
