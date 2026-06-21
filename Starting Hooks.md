@@ -1,4 +1,6 @@
 ---
+title: Starting Hooks
+nav_order: 9
 tags: [player-guide, hooks, session-zero]
 ---
 # Starting Hooks

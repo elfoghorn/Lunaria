@@ -1,4 +1,6 @@
 ---
+title: Factions
+nav_order: 6
 tags: [player-guide, factions]
 ---
 # Factions - What Players Know

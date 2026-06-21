@@ -1,4 +1,6 @@
 ---
+title: Welcome to Lunaria
+nav_order: 2
 tags: [player-guide, intro, lunaria]
 ---
 # Welcome to Lunaria
@@ -31,11 +33,9 @@ The world has secrets at its foundations. Some of them are a hundred years old. 
 
 ## Quick Navigation
 
-- [[The Seven Kingdoms : Player Overview]] - who governs what and what they're like to live under
-- [[Lunaria Geography : Player Overview]] - where things are and how to travel
-- [[Races of Lunaria : Player Guide]] - who you might be and who you'll meet
-- [[Factions : What Players Know]] - the organisations operating in the open
-- [[The Below : What Is Known]] - publicly available knowledge about the danger below
-- [[Calendar & Time]] - how Lunaria marks time
-
-*See also: [[HOME]]*
+- [The Seven Kingdoms](the-seven-kingdoms-player-overview) - who governs what and what they're like to live under
+- [Lunaria Geography](lunaria-geography-player-overview) - where things are and how to travel
+- [Races of Lunaria](races-of-lunaria-player-guide) - who you might be and who you'll meet
+- [Factions](factions-what-players-know) - the organisations operating in the open
+- [The Below](the-below-what-is-known) - publicly available knowledge about the danger below
+- [Calendar & Time](calendar-time) - how Lunaria marks time

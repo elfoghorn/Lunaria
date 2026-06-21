@@ -1,4 +1,6 @@
 ---
+title: Races of Lunaria
+nav_order: 5
 tags: [player-guide, races]
 ---
 # Races of Lunaria - Player Guide

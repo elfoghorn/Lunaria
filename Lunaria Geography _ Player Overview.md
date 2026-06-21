@@ -1,4 +1,6 @@
 ---
+title: Lunaria Geography
+nav_order: 4
 tags: [player-guide, geography]
 ---
 # Lunaria Geography - Player Overview
@@ -54,4 +56,4 @@ The Below is the corrupted remnant of the pre-Calamity ground-world. It is dark,
 
 The Below produces Ascendant creatures that are increasingly appearing above the Threshold Line in the Undertow Deeps. It produces Below-Corruption disease that requires specialist treatment. Fringe communities and Seekers' Concord Runners operate in and near it as a professional practice. Most people in the major kingdoms have never seen it.
 
-*See also: [[The Below : What Is Known]] · [[Welcome to Lunaria]] · [[HOME]]*
+*See also: [The Below](the-below-what-is-known) · [Welcome to Lunaria](welcome-to-lunaria)*

@@ -1,4 +1,6 @@
 ---
+title: Player Guide Index
+nav_order: 10
 tags: [player-guide, index]
 ---
 # Player Guide - Index

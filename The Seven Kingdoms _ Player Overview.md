@@ -1,4 +1,6 @@
 ---
+title: The Seven Kingdoms
+nav_order: 3
 tags: [player-guide, kingdoms, overview]
 ---
 # The Seven Kingdoms - Player Overview
@@ -84,4 +86,4 @@ The Reach is the only community in Lunaria with living pre-Calamity witnesses - 
 
 ---
 
-*See also: [[Lunaria Geography : Player Overview]] · [[Welcome to Lunaria]] · [[HOME]]*
+*See also: [Lunaria Geography](lunaria-geography-player-overview) · [Welcome to Lunaria](welcome-to-lunaria)*

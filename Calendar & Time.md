@@ -1,4 +1,6 @@
 ---
+title: Calendar & Time
+nav_order: 8
 tags: [player-guide, calendar, time]
 ---
 # Calendar & Time in Lunaria
